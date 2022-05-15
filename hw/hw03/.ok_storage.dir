@@ -1,0 +1,5 @@
+'balanced-correct', (0, 70)
+'totals_tree-correct', (512, 70)
+'replace_leaf-correct', (1024, 70)
+'preorder-correct', (1536, 70)
+'has_path-correct', (2048, 70)
